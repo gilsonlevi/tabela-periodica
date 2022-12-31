@@ -1,0 +1,86 @@
+caption{
+    font-size:30px;
+    font-weight: bold
+}
+.tabela1{
+    text-align: center;
+    
+}
+.tabela2{
+
+}
+.H{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;    
+    border-radius: 4px;
+    font-weight: bold
+}
+
+.tela1{
+    background-color: #FFFF00;
+    border: 1px solid #FF6600;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela2{
+    background-color: #FFF68F;
+    border: 1px solid #FFCC66;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela3{
+    background-color: #BFEFFF;
+    border: 1px solid #00BFFF;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela4{
+    background-color: #EEAEEE;
+    border: 1px solid #FF83FA;
+    padding: 10px;
+    border-radius: 4px;
+}
+.tela5{
+    background-color: #E066FF;
+    border: 1px solid #EE00EE ;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela6{
+    background-color: #54FF9F;
+    border: 1px solid #2E8B57;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela7{
+    background-color: #FFCC66;
+    border: 1px solid #FF6600;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.tela8{
+    backdrop-filter: white;
+    color: #0000CD;
+    border: 1px solid #0000CD;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold
+}
+.telaa{
+    background-color: #BFEFFF;
+    border: 1px solid #00BFFF;
+    padding: 10px;
+    border-radius: 4px;
+    color: #696969;
+    font-weight: bold
+}
+.la{
+    font-weight: bold
+}
